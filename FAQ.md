@@ -35,3 +35,4 @@ npm run dev
 ```bash
 npm run dist
 ```
+### https://mint-ui.github.io/docs/#/zh-cn/lazyload 文档中最前面一个关于为为 img 元素添加 v-lazy 指令的例子，样式和结构不能匹配，原因是在结构中是img，在样式中用的却是image?
